@@ -7,5 +7,5 @@ def fibonacci_series(n):
 
 # Example usage:
 Terms = 10
-print(f"Fibonacci series up to {terms} terms")
+print(f"Fibonacci series to {terms} terms")
 print(fibonacci_series(terms))
